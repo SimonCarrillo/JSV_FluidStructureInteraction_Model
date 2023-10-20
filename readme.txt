@@ -1,3 +1,11 @@
+Code for reproducing results in Simon Carrillo Segura, Peng Zhang, Maurizio Porfiri,
+Three-dimensional exact solution of free vibrations of a simply supported rectangular plate in contact with a fluid,
+Journal of Sound and Vibration,
+Volume 534,
+2022
+
+Manuscript can be found here: https://doi.org/10.1016/j.jsv.2022.117007
+
 Main programs" to compute the natural frequencies and mode shapes in displacement and stress. Both in-vacuum and air-backed vibrations are computed in each code:
 
 FSI_main.m
